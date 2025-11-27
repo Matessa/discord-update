@@ -1,1 +1,6 @@
-
+Discord.exe
+Discord.dll
+Discord.deps.json
+Discord.runtimeconfig.json
+System.*.dll
+wwwroot/test.html
